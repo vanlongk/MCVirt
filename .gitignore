@@ -1,3 +1,4 @@
 mcvirt_*_all.deb
 *.pyc
 source/usr/share
+/bin/
